@@ -1,0 +1,18 @@
+{
+    "name": "org.nuget.fastmember",
+    "version": "1.5.0",
+    "displayName": "FastMember",
+    "description": "In .NET reflection is slow... well, kinda slow. If you need access to the members of an arbitrary type, with the type and member-names known only at runtime - then it is frankly hard (especially for DLR types). This library makes such access easy and fast.",
+    "unity": "2018.3",
+    "keywords": [
+        "Reflection",
+        "Dynamic",
+        "Member",
+        "Access"
+    ],
+    "author": {
+        "name": "Marc Gravell",
+        "email": "",
+        "url": "https://github.com/mgravell/fast-member"
+    }
+}

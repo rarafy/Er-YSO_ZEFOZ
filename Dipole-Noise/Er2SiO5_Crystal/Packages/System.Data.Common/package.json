@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.system.data.common",
+    "version": "4.3.0",
+    "displayName": "System.Data.Common",
+    "description": "Provides the base abstract classes, including System.Data.DbConnection and System.Data.DbCommand, for all data providers.\n\nCommonly Used Types:\nSystem.DBNull\nSystem.Data.Common.DbConnection\nSystem.Data.Common.DbException\nSystem.Data.Common.DbParameter\nSystem.Data.DbType\nSystem.Data.Common.DbDataReader\nSystem.Data.Common.DbCommand\nSystem.Data.Common.DbTransaction\nSystem.Data.Common.DbParameterCollection\nSystem.Data.Common.DbProviderFactory\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
+    "unity": "2018.3",
+    "keywords": [
+        ""
+    ],
+    "author": {
+        "name": "Microsoft",
+        "email": "",
+        "url": "https://dot.net/"
+    }
+}

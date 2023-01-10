@@ -1,0 +1,62 @@
+{
+    "managedList": [
+        {
+            "packageName": "FastMember",
+            "fileNames": [
+                "FastMember"
+            ]
+        },
+        {
+            "packageName": "System.Data.Common",
+            "fileNames": [
+                "System.Data.Common"
+            ]
+        },
+        {
+            "packageName": "System.Reflection",
+            "fileNames": [
+                "System.Reflection"
+            ]
+        },
+        {
+            "packageName": "System.Reflection.Emit",
+            "fileNames": [
+                "System.Reflection.Emit"
+            ]
+        },
+        {
+            "packageName": "System.Reflection.Emit.ILGeneration",
+            "fileNames": [
+                "System.Reflection.Emit.ILGeneration"
+            ]
+        },
+        {
+            "packageName": "System.Reflection.Emit.Lightweight",
+            "fileNames": [
+                "System.Reflection.Emit.Lightweight"
+            ]
+        },
+        {
+            "packageName": "System.Security.Permissions",
+            "fileNames": [
+                "System.Security.Permissions"
+            ]
+        },
+        {
+            "packageName": "System.Security.AccessControl",
+            "fileNames": [
+                "System.Security.AccessControl"
+            ]
+        },
+        {
+            "packageName": "System.Security.Principal.Windows",
+            "fileNames": [
+                "System.Security.Principal.Windows"
+            ]
+        },
+        {
+            "packageName": "Microsoft.CSharp",
+            "fileNames": []
+        }
+    ]
+}

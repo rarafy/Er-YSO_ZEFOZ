@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.system.security.permissions",
+    "version": "4.7.0",
+    "displayName": "System.Security.Permissions",
+    "description": "Provides types supporting Code Access Security (CAS). \nWhen using NuGet 3.x this package requires at least version 3.4.",
+    "unity": "2018.3",
+    "keywords": [
+        ""
+    ],
+    "author": {
+        "name": "Microsoft",
+        "email": "",
+        "url": "https://github.com/dotnet/corefx"
+    }
+}
